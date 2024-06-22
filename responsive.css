@@ -1,0 +1,163 @@
+@media only screen and (max-width:1200px){
+	.container{
+		margin:0rem 4rem;
+	}
+	.scroll-header{
+		padding:0rem 4rem;
+	}
+	.comment-section .coments{
+		padding-left:33rem;
+	}
+	.go-section .box{
+		margin-left:0rem;
+	}
+}
+@media (max-width:1024px){
+	.mobile-menu span{
+		display:block;
+	}
+	.main-nav{
+		display:none;
+	}
+	
+	.go-section img{
+		width:100%
+	}
+	.go-section .box1{
+		width:100%
+	}
+	.go-section .btn{
+		margin-left: 33%
+	}
+	.comment-section .coments{
+		padding-left:27rem;
+	}
+	.service{
+		margin-left:11.5rem;
+	}
+}
+@media (max-width:991px){
+	
+	.comment-section .coments{
+		padding-left:25rem;
+	}
+	.discount-box p{
+		margin-bottom:7rem;
+	}
+	.paragraph{
+		margin-right:-1rem;
+	}
+	.footer-area{
+	width:100%;
+	padding-top:7rem;
+	}
+	.service:last-child{
+	margin-top:2rem;
+	}
+	.service{
+		margin-left:20rem;
+	}
+}
+@media (max-width:768px){
+	
+	html{
+		font-size:52%
+	}
+	.dis-heading2{
+	margin:5rem 4rem !important;
+	}
+	.paragraph{
+		margin-right:0rem;
+	}
+	.dis-heading{
+		margin:10rem 3rem !important;
+	}
+		.discount-box p{
+		width:80%;
+		margin-bottom: 5rem;
+	}
+	.service{
+		margin-left:17rem;
+	}
+	
+}
+@media (max-width:575px){
+	html{
+		font-size:40%;
+	}
+	.discount-section .discount-box {
+		width:100%;
+	}
+	.discount-box2{
+		width:100%;
+	}
+	.discount-section img{
+		width:100%;
+	}
+	.dis-heading{
+		margin:10rem 25rem !important;
+	}
+	.dis-heading2{
+		margin:10rem 25rem !important;
+	}
+}
+@media (max-width:480px){
+	html{
+		font-size:45%;
+	}
+	.go-section .box{
+	margin-left:2rem;
+	}
+	.go-section .btn {
+    margin-left: 20%;
+	}
+	.dis-heading{
+		margin:10rem 10rem !important;
+	}
+	.dis-heading2{
+		margin:10rem 10rem !important;
+	}
+	.explore-heading{
+		margin-left:35rem;
+	}
+	.explore-heading h1{
+		font-size:4rem;
+	}
+	.mountain-heading p{
+		width:68%
+	}
+	.paragraph-section{
+		text-align:center;
+	}
+	.paragraph{
+		width:100%;
+		margin-bottom: 5rem;
+	}
+	.paragraph p{
+		text-align:center;
+	}
+	.comment-section .coments{
+		padding-left:8rem;
+	}
+	.subscrib-section input[type="email"]{
+		margin-right:10rem;
+	}
+	.subscrib-section .btn{
+		margin-top:-5.8rem;
+		margin-left:36rem;
+	}
+	.title-area{
+		width:35%;
+	}
+	.details-area{
+		width:65%;
+	}
+	.service{
+		margin-left:3rem;
+	}
+}
+@media (max-width:360px){
+	html{
+		font-size:35%;
+	}
+}
